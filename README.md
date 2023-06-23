@@ -5,7 +5,7 @@ Estudante de Java Full-Stack e Cloud
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CarlosEduardoMendesPereira&show_icons=true&theme=onedark"
+    srcset="https://github-readme-stats.vercel.app/api?username=CarlosEduardoMendesPereira&show_icons=true&theme=cobalt"
     media="(prefers-color-scheme: dark)"
   />
   <source
