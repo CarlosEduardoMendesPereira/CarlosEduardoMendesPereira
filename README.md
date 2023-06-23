@@ -1,11 +1,11 @@
-Oiiii, eu me chamo Carlos Eduardo, seja bem-vindo(a) 
+Eai, me chamo Carlos Eduardo, seja bem-vindo(a) 
 Estudante de Java Full-Stack e Cloud
 
 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CarlosEduardoMendesPereira&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api?username=CarlosEduardoMendesPereira&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
