@@ -1,4 +1,4 @@
-Me chamo Carlos Eduardo, seja bem-vindo(a)</br>
+Me chamo Carlos Eduardo, seja bem-vindo(a)
 Estudante de Java Full-Stack e Cloud
 
 
